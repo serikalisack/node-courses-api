@@ -80,6 +80,7 @@ http://localhost:3000/courses?start=130&end=230
 #### Screenshot
 
 ![API Output Example](screenshot/output.png)
+*sample Output screen for: http://localhost:3000/courses?start=130&end=230*
 
 ## About Me
 

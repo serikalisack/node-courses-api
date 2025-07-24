@@ -95,3 +95,31 @@ This project is licensed under the ISC License.
 ---
 
 > For any questions or suggestions, feel free to contact me!
+
+## Contributing
+
+Contributions are welcome!  
+If you find a bug or have a feature request, please open an [issue](https://github.com/serikalisack/node-courses-api/issues).
+
+To contribute code:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature-name`)
+3. Commit your changes
+4. Push to your fork
+5. Open a [pull request](https://github.com/serikalisack/node-courses-api/pulls)
+
+Please make sure your code follows the project's style and includes relevant documentation or tests.
+
+## Issues
+
+Use the [Issues](https://github.com/serikalisack/node-courses-api/issues) tab to report bugs or request features.
+
+## Pull Requests
+
+All pull requests are reviewed before merging.  
+Describe your changes clearly and reference any related issues.
+
+---
+
+*Thank you for helping improve this project!*

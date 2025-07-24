@@ -5,10 +5,10 @@ const app = express();
 const port = 3000;
 
 const pool = mysql.createPool({
-  host: 'localhost_here',
-  user: 'user_here',
-  password: 'password_here',
-  database: 'dbName_db'
+  host: 'localhost',
+  user: 'root',
+  password: 'password',
+  database: 'COURSES_db'
 });
 
 app.get('/courses', async (req, res) => {

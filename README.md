@@ -79,12 +79,11 @@ http://localhost:3000/courses?start=130&end=230
 
 #### Screenshot
 
-![API Output Example](https://raw.githubusercontent.com/serikalisack/node-courses-api/main/screenshot.png)
-*Replace with your actual screenshot.*
+![API Output Example](screenshot/output.png)
 
 ## About Me
 
-**Serik Alisack**  
+**Serikalisack**  
 Passionate backend developer with experience in Node.js and MySQL.  
 [GitHub](https://github.com/serikalisack)  
 
